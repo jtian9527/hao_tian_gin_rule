@@ -1,8 +1,8 @@
 package dao
 
 import (
-	"haotian_rule/utils"
 	"gorm.io/gorm"
+	"haotian_rule/utils"
 )
 
 type Demo struct {

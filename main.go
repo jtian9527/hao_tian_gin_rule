@@ -19,5 +19,5 @@ func main() {
 	utils.InitUcache(conf.RedisConfig)
 	engine := gin.Default()
 	routers.RegisterRouter(engine)
-	engine.Run(":8011") // listen and serve on 0.0.0.0:8080
+	engine.Run(":8012")
 }

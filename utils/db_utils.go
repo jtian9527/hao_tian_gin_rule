@@ -2,9 +2,9 @@ package utils
 
 import (
 	"fmt"
-	"haotian_rule/config"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
+	"haotian_rule/config"
 )
 
 var DBCluster = GetConn()

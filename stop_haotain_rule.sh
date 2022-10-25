@@ -1,0 +1,1 @@
+ps -aux | grep hao_tian_gin_rule | grep api |  grep -v grep  | awk '{print $2}' | xargs kill -9

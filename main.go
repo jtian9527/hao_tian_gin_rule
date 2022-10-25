@@ -4,9 +4,9 @@ package main
 import (
 	"fmt"
 	"github.com/gin-gonic/gin"
-	"haotian_main/config"
-	"haotian_main/routers"
-	"haotian_main/utils"
+	"haotian_rule/config"
+	"haotian_rule/routers"
+	"haotian_rule/utils"
 )
 
 

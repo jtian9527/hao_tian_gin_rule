@@ -3,7 +3,7 @@ package routers
 
 import (
 	"github.com/gin-gonic/gin"
-	"haotian_main/controller"
+	"haotian_rule/controller"
 )
 //路由设置
 func RegisterRouter(router *gin.Engine) {

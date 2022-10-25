@@ -2,7 +2,7 @@ package utils
 
 import (
 	"github.com/go-redis/redis"
-	"haotian_main/config"
+	"haotian_rule/config"
 	"log"
 )
 

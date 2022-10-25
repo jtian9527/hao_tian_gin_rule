@@ -1,4 +1,4 @@
-module haotian_main
+module haotian_rule
 
 go 1.16
 

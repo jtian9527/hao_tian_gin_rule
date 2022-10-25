@@ -1,7 +1,7 @@
 package dao
 
 import (
-	"haotian_main/utils"
+	"haotian_rule/utils"
 	"gorm.io/gorm"
 )
 

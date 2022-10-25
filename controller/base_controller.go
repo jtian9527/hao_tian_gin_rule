@@ -2,9 +2,9 @@ package controller
 
 import (
 	"github.com/gin-gonic/gin"
-	"haotian_main/config"
-	"haotian_main/utils"
-	"haotian_main/dao"
+	"haotian_rule/config"
+	"haotian_rule/utils"
+	"haotian_rule/dao"
 	"net/http"
 	"time"
 )

@@ -2,7 +2,7 @@ package utils
 
 import (
 	"fmt"
-	"haotian_main/config"
+	"haotian_rule/config"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
 )
